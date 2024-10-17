@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding:15px 40px ;
+}
+
+body.dark{
+    background-color: #27292d;
+    color:rgb(216, 211, 211) ;
+}
+
+h1{
+    margin:23px ;
+    text-align: center;
+}
+
+.container{
+    border:1px solid rgba(0, 0, 255, 0.829) ;
+    padding:16px ;
+    margin-top:16px ;
+    background-color: #fff;
+    color:black ;
+}
+
+.container.dark{
+    background-color: #27292d;
+    color:rgb(216, 211, 211) ;
+}
+
